@@ -1,38 +1,211 @@
-.App {
-  text-align: center;
+#root {
+  max-width: 75vw 60vw;
+  margin: 0px auto;
+  padding: 1rem;
+  text-align: start;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/*
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
+@keyframes logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+/* MY CSS GOES BELOW */
+.Assignment {
+  font-style: italic;
+  font-size: 30px;
+}
+
+.header-name {
+  margin: 0 auto;
+  color: #fffafa;
+  text-align: right;
+  padding-bottom: 15px;
+}
+
+.Introduction {
+  background-image: linear-gradient(100deg, #cd5c5b, #f08080);
+  margin-bottom: 30px;
+  padding-top: 40px;
+  border-radius: 25cm 40cm 25cm 25cm;
+}
+.Parts {
+  /* Section 1 */
+  background-image: linear-gradient(130deg, #914c4b, #9b4e4e);
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+.Part-header {
+  font-weight: bold;
+  text-align: start;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.InnerTitles {
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.Answer1 {
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.Explanation {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.Explanation2 {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-style: italic;
+}
+
+.Answer2 {
+  padding-left: 50px;
+  list-style-type: upper-roman;
+  padding-bottom: 10px;
+}
+
+.Cards1 {
+  text-align: center;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  flex: 1 1 auto;
+}
+
+.img.hover {
+  filter: drop-shadow(0 0 2em #0f0f0faa);
+}
+
+.img.react:hover {
+  filter: drop-shadow(0 0 2em #0f0f0faa);
+}
+
+.card {
+  padding-top: 20px;
+  width: 550px;
+  background-color: rgba(255, 232, 188, 0.711);
+}
+
+.description {
+  color: black;
+  font-size: 20px;
+}
+
+.box {
+  display: flex;
+}
+
+.Captions {
+  padding-left: 30px;
+  padding-right: 20px;
+  padding-top: 200px;
+}
+
+.Part2 {
+  /* Section 2 */
+
+  background-image: linear-gradient(100deg, #f08080, #cc7b79);
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+.flex1 {
+  padding-left: 40px;
+  font-weight: bold;
+}
+
+.flex2 {
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+
+.Cards2 {
+  background-color: rgba(255, 232, 188, 0.711);
+  width: 900px;
+  color: black;
+  padding-left: 10px;
+  margin: 20px;
+  box-shadow: -10px -10px 5px #834646;
+}
+
+.Persons {
+  font-weight: bold;
+}
+
+.header3 {
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.Questions {
+  font-weight: bold;
+  padding-left: 20px;
+}
+
+.bulletpoints {
+  padding-left: 5pc;
+  padding-right: 20px;
+}
+
+.InterAnswer {
+  padding-left: 20px;
+}
+
+.ScreenshotDescriptions {
+  padding-left: 30px;
+  padding-right: 10px;
+  padding-top: 15px;
+}
+
+.Screenshots {
+  text-align: right;
+  margin-left: 20px;
+  margin-top: 40px;
+  padding-right: 5px;
+}
+
+.Caption {
+  font-size: 15px;
+  font-style: italic;
+  padding-bottom: 30px;
+}
+
+.StoryBoards {
+  text-align: center;
 }
