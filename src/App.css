@@ -160,6 +160,7 @@
   width: 900px;
   color: black;
   padding-left: 10px;
+  padding-top: 25px;
   margin: 20px;
   border-radius: 25cm 40cm 25cm 25cm;
   box-shadow: -10px -10px 5px #834646;
@@ -172,6 +173,7 @@
   padding-left: 10px;
   margin: 20px;
   padding-bottom: 20px;
+  text-align: start;
   box-shadow: -10px -10px 5px #834646;
 }
 
