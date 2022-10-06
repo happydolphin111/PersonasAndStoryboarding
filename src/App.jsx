@@ -556,11 +556,12 @@ function App() {
         <h3> Citations</h3>
         <p>
           {" "}
-          React <br /> Vite <br /> How to make a card
-          (https://www.w3schools.com/howto/howto_css_cards.asp )
-          <br /> Flexbox guide
-          (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
-          )
+          <a href="https://react-bootstrap.github.io"> React </a> <br /> 
+           <a href="https://vitejs.dev"> Vite </a> <br /> 
+          <a href="www.w3schools.com/howto/howto_css_cards.asp">How to make a card</a>
+          <br /> 
+          < a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"> Flexbox guide </a>
+        
         </p>
       </section>
       <footer> Made in Providence </footer>
