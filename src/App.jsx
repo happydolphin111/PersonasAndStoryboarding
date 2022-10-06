@@ -253,7 +253,7 @@ function App() {
           questions I crafted in Part 1. Again, the goal was to have objective
           <br /> questions that wouldn't lead them to a specific answer.{" "}
         </p>
-        <div className="Cards2">
+        <div className="Cards3">
           <div class="box">
             <div className="q">
               <p className="Questions">What year are you in?</p>
@@ -299,7 +299,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="Cards2">
+        <div className="Cards3">
           <div class="box">
             <div className="q">
               <p className="Questions">
@@ -353,7 +353,7 @@ function App() {
           </div>
         </div>
 
-        <div className="Cards2">
+        <div className="Cards3">
           <div class="box">
             <div className="q">
               <p className="Questions">
