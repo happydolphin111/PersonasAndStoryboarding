@@ -357,21 +357,25 @@ function App() {
           <div class="box">
             <div className="q">
               <p className="Questions">
-                Is there anything in the room that is making your experience of
-                playing pool worse?
+                Is there anything in the room <br/> 
+                that is making your experience <br/>  
+                 of playing pool worse?
               </p>
               <p className="InterAnswer">
                 <ul>
                   <li>
-                    Not really, they just go in and out whenever they desire.
-                    Times he goes works with his schedule.
+                    Not really, they just go in and out <br/> 
+                   whenever they desire. Times he goes <br/> 
+                   works with his schedule.
                   </li>
                   <li>
                     {" "}
-                    Yes: in the middle of the day (when he has time to go and
-                    play) there are always people using the tables. And doesn’t
-                    like the layout of the chairs, how everything is looking
-                    towards the center. Described as “feeling like an animal in
+                    Yes: in the middle of the day (when he <br/> 
+                    has time to go and
+                    play) there are always <br/> 
+                      people using the tables. And doesn’t
+                    like the <br/>  layout of the chairs, how everything is looking <br/> 
+                    towards the center. Described as “feeling <br/>  like an animal in
                     the zoo that everyone looks at”.
                   </li>
                   <li>
