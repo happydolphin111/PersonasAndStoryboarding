@@ -500,7 +500,7 @@ function App() {
             As with the creation of Santiago I picked up on <br />
             repeated behaviors, such as spontaneity and being a <br /> people
             person. To support that even further, lack of <br />
-            planning and time management were also repeated <br /> behaviors.
+            planning and time management were also repeated <br /> behaviors that I took to create Robby!
           </p>
           <div className="Screenshots">
             <img
@@ -542,7 +542,7 @@ function App() {
           You will find two storyboards, one belonging to each persona I created
           in Part 3: Shy Strategic Santiago and Cool Robby.
           <br /> Below each frame, you can find the descriptions of what is
-          going on. More specifically, how the user is interacting with the
+          going on. More specifically, how the user is interacting with <br/> the
           interface.
         </p>
         <div className="StoryBoards">
